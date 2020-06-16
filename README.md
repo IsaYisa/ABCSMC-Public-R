@@ -1,7 +1,7 @@
 # ABCSMC_Public_R
 the R code of Angle-Based Cost-Sensitive Multicategory Classification
 
-Yang Y, Guo Y, Chang X. Angle-Based Cost-Sensitive Multicategory Classification. arXiv preprint arXiv:2003.03691. 2020 Mar 8.
+Yang Y, Guo Y, Chang X. Angle-Based Cost-Sensitive Multicategory Classification. arXiv preprint arXiv:2003.03691. 2020 Mar 8. (Pls cite if you use our codes)
 
 
 This folder includes:
