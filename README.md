@@ -7,5 +7,8 @@ This folder includes:
 
 2. angle-based-boosting.R includes our methods and other baseline classifiers of boosting.
 
-# If you use the codes for academic research, please cite our paper!
+
+
+----------------------------------------------------------------------------------------------------------------------------
+#### If you use the codes for academic research, please cite our paper!
 Yang Y, Guo Y, Chang X. Angle-Based Cost-Sensitive Multicategory Classification. arXiv preprint arXiv:2003.03691. 2020 Mar 8.
