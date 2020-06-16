@@ -6,6 +6,6 @@ Yang Y, Guo Y, Chang X. Angle-Based Cost-Sensitive Multicategory Classification.
 
 This folder includes:
 
-1. angle-creation.R creats the angle-based simplex vertices;
+1. angle-creation.R creates the angle-based simplex vertices;
 
 2. angle-based-boosting.R includes our methods and other baseline classifiers of boosting.
